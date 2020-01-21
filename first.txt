@@ -1,0 +1,6 @@
+hello world
+hi everyone
+git init
+cd folder name
+git status
+cd drive:
